@@ -1,0 +1,14 @@
+textarea {
+    vertical-align: top;
+    display: inline-block;
+    position: relative;
+}
+
+label {
+    display: inline-block;
+}
+
+input {
+    display: inline-block;
+    position: relative;
+}

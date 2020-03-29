@@ -1,0 +1,29 @@
+<h2>Create Reimbursement</h2>
+<div *ngIf='reimb'>
+    <label>Reimbursement Amount:
+        <input [(ngModel)]="reimb.reimb_amount" type="number" />
+    </label>
+    <br>
+
+    
+    <label>Reimbursement Description:
+        <textarea [(ngModel)]="reimb.reimb_description" rows="4" cols="50"></textarea>
+    </label>
+    
+
+    <br>
+    <label>Reimbursement Type:
+        <select class="form-control"
+        [(ngModel)]="reimb.reimb_type">
+            <option></option>      
+            <option value="LODGING">LODGING</option>
+            <option value="TRAVEL">TRAVEL</option>
+            <option value="FOOD">FOOD</option>
+            <option value="OTHER">OTHER</option>
+
+        </select>
+    </label>
+    <br>
+    <button (click)="goBack()">Go Back</button>
+    <button (click)="addReimb()">Add Reimbursement</button>
+</div>

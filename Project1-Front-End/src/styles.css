@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+
+
+input[type=text], input[type=password] {
+    padding: 12px;
+    margin-right: 20px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 14px 20px;
+    margin-right: 20px;
+  }

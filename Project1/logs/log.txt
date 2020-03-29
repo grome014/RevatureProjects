@@ -1,0 +1,142 @@
+2020-03-27 01:06:37 INFO  FrontController:72 - Attempting to login
+2020-03-27 01:06:38 INFO  FrontController:74 - Login successful
+2020-03-27 01:06:38 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 01:06:45 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 09:03:43 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 09:03:50 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 09:03:55 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 09:03:56 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 09:04:20 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:04:21 INFO  FrontController:44 - Got employee.
+2020-03-27 09:04:21 INFO  FrontController:37 - Attempting to get reimbursements of employee.
+2020-03-27 09:04:25 INFO  FrontController:39 - Got the reimbursements.
+2020-03-27 09:04:27 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:04:27 INFO  FrontController:44 - Got employee.
+2020-03-27 09:16:40 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:16:40 INFO  FrontController:44 - Got employee.
+2020-03-27 09:17:11 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:17:11 INFO  FrontController:44 - Got employee.
+2020-03-27 09:17:24 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:17:24 INFO  FrontController:44 - Got employee.
+2020-03-27 09:17:26 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:17:27 INFO  FrontController:44 - Got employee.
+2020-03-27 09:17:28 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:17:28 INFO  FrontController:44 - Got employee.
+2020-03-27 09:18:26 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:18:26 INFO  FrontController:44 - Got employee.
+2020-03-27 09:18:29 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:18:30 INFO  FrontController:44 - Got employee.
+2020-03-27 09:18:31 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:18:31 INFO  FrontController:44 - Got employee.
+2020-03-27 09:18:52 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:18:52 INFO  FrontController:44 - Got employee.
+2020-03-27 09:18:54 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:18:55 INFO  FrontController:44 - Got employee.
+2020-03-27 09:19:01 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:19:01 INFO  FrontController:44 - Got employee.
+2020-03-27 09:19:18 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:19:18 INFO  FrontController:44 - Got employee.
+2020-03-27 09:20:20 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:20:20 INFO  FrontController:44 - Got employee.
+2020-03-27 09:24:49 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:24:49 INFO  FrontController:44 - Got employee.
+2020-03-27 09:26:38 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:26:38 INFO  FrontController:44 - Got employee.
+2020-03-27 09:26:50 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:26:50 INFO  FrontController:44 - Got employee.
+2020-03-27 09:27:14 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:27:14 INFO  FrontController:44 - Got employee.
+2020-03-27 09:27:23 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:27:23 INFO  FrontController:44 - Got employee.
+2020-03-27 09:27:28 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:27:28 INFO  FrontController:44 - Got employee.
+2020-03-27 09:27:52 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:27:52 INFO  FrontController:44 - Got employee.
+2020-03-27 09:27:54 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:27:54 INFO  FrontController:44 - Got employee.
+2020-03-27 09:28:41 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:28:41 INFO  FrontController:44 - Got employee.
+2020-03-27 09:31:04 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:31:05 INFO  FrontController:44 - Got employee.
+2020-03-27 09:32:00 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:32:00 INFO  FrontController:44 - Got employee.
+2020-03-27 09:32:03 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 09:32:03 INFO  FrontController:44 - Got employee.
+2020-03-27 11:28:56 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:29:02 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:29:04 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:29:04 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:29:15 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:29:20 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:29:44 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:29:50 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:30:28 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:30:34 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:30:36 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:30:36 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:30:44 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:30:50 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:31:00 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:31:01 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:31:33 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:31:34 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:31:37 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:31:43 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:31:45 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:31:46 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:31:50 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:31:55 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:32:31 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:32:37 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:32:37 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:32:38 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:32:45 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:32:51 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:33:14 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:33:20 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:33:21 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:33:22 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:33:31 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:33:37 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:33:38 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:33:39 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:33:42 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:33:48 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:33:55 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:34:01 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:34:07 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:34:08 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:34:11 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:34:17 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 11:34:20 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 11:34:21 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 11:34:24 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 11:34:30 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 13:32:50 INFO  FrontController:72 - Attempting to login
+2020-03-27 13:32:51 INFO  FrontController:74 - Login successful
+2020-03-27 13:32:51 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 13:32:51 INFO  FrontController:44 - Got employee.
+2020-03-27 13:32:51 INFO  FrontController:37 - Attempting to get reimbursements of employee.
+2020-03-27 13:32:53 INFO  FrontController:39 - Got the reimbursements.
+2020-03-27 13:33:23 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 13:33:23 INFO  FrontController:44 - Got employee.
+2020-03-27 13:33:38 INFO  FrontController:67 - Attempting to insert reimbursement.
+2020-03-27 13:33:38 INFO  FrontController:69 - Inserted the reimbursement.
+2020-03-27 13:33:38 INFO  FrontController:42 - Attempting to get employee.
+2020-03-27 13:33:38 INFO  FrontController:44 - Got employee.
+2020-03-27 13:33:38 INFO  FrontController:37 - Attempting to get reimbursements of employee.
+2020-03-27 13:33:41 INFO  FrontController:39 - Got the reimbursements.
+2020-03-27 13:34:22 INFO  FrontController:72 - Attempting to login
+2020-03-27 13:34:22 INFO  FrontController:74 - Login successful
+2020-03-27 13:34:22 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 13:34:29 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 13:34:49 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 13:34:50 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 13:34:57 INFO  FrontController:62 - Attempting to update reimbursement.
+2020-03-27 13:34:57 INFO  FrontController:64 - Updated reimbursement.
+2020-03-27 13:34:57 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 13:35:04 INFO  FrontController:29 - Got all reimbursements.
+2020-03-27 13:35:38 INFO  FrontController:32 - Attempting to grab a reimbursements.
+2020-03-27 13:35:39 INFO  FrontController:34 - Got the reimbursement.
+2020-03-27 13:35:47 INFO  FrontController:27 - Attempting to grab all reimbursements.
+2020-03-27 13:35:54 INFO  FrontController:29 - Got all reimbursements.

@@ -1,0 +1,47 @@
+<div class="container">
+
+    <div class="form-group">
+        <strong>Filter by Status</strong>
+        <br>
+        <select class="form-control"
+                [(ngModel)]="status">
+          <option></option>      
+          <option value="PENDING">PENDING</option>
+          <option value="APPROVED">APPROVED</option>
+          <option value="DENIED">DENIED</option>
+        </select>
+    </div>
+
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Amount</th>
+                <th>Submitted</th>
+                <th>Resolved</th>
+                <th>Description</th>
+                <th>Author</th>
+                <th>Resolver</th>
+                <th>Status</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let reimb of reimbursementObs | async | tableFilter: status" (click)="goToDetails(reimb.reimb_id)">   
+                <td>{{ reimb.reimb_id }}</td>
+                <td>{{ reimb.reimb_amount | currency }}</td>
+                <td>{{ reimb.reimb_submitted | date:'medium' }}</td>
+                <td>{{ reimb.reimb_resolved | date:'medium' }}</td>
+                <td>{{ reimb.reimb_description }}</td>
+                <td>{{ reimb.reimb_author.firstName + ' ' + reimb.reimb_author.lastName }}</td>
+                <td *ngIf="reimb.reimb_resolver != null">{{ reimb.reimb_resolver.firstName + ' ' + reimb.reimb_resolver.lastName }}</td>
+                <td *ngIf="reimb.reimb_resolver == null"></td>
+                <td>{{ reimb.reimb_status }}</td>
+                <td>{{ reimb.reimb_type }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <button routerLink='/login'>Logout</button>
+
+
+</div>
